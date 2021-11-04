@@ -1,5 +1,5 @@
-### Connect with me:
-
+<!-- ### Connect with me:
+ -->
 
 ### Languages and Tools:
 
