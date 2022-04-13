@@ -3,8 +3,6 @@
 
 ### School21 (Ecole42)  
 
-[![tjennine's 42 stats](https://badge42.herokuapp.com/api/stats/tjennine?privacyEmail=true&cursus=42%20cursus)](https://github.com/mamboojamboo)
-
 ### Codewars
 
 ![My Codewarrior Profile Badge](https://www.codewars.com/users/mamboojamboo/badges/large)
